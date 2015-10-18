@@ -1,3 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: comp130essay.aux
 The style file: ieeetr.bst
 Database file #1: game-platform-history-references.bib
+Warning--entry type for "Madtronix" isn't style-file defined
+--line 84 of file game-platform-history-references.bib
+Warning--empty author and editor in imagine:genius
+Warning--empty publisher in vectrex:manual
+(There were 3 warnings)
