@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.23)  18 OCT 2015 20:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.1.5)  19 OCT 2015 10:14
 entering extended mode
 **comp130essay.tex
 
-("D:\Hat\SkyDrive\Documents\Falmouth University\COMP130\Assignments\Game Platform Essay and Presentation\comp130-game-pl
-atform-history\comp130essay.tex"
+("D:\Harriet\SkyDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-ga
+me-platform-history\comp130essay.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -13,25 +13,25 @@ ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, 
 ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
 elsh, loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
-Document Class: scrartcl 2015/07/02 v3.18 KOMA-Script document class (article)
+Document Class: scrartcl 2015/10/03 v3.19a KOMA-Script document class (article)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
-Package: scrkbase 2015/07/02 v3.18 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+Package: scrkbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
-Package: scrbase 2015/07/02 v3.18 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+Package: scrbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-independent basics and keyval usage)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
-Package: scrlfile 2015/07/02 v3.18 KOMA-Script package (loading files)
+Package: scrlfile 2015/10/03 v3.19a KOMA-Script package (loading files)
 
-Package scrlfile, 2015/07/02 v3.18 KOMA-Script package (loading files)
+Package scrlfile, 2015/10/03 v3.19a KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
 ))) ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
-Package: tocbasic 2015/07/02 v3.18 KOMA-Script package (handling toc-files)
+Package: tocbasic 2015/10/03 v3.19a KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
@@ -43,15 +43,15 @@ Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 125.
 Class scrartcl Info: File `scrsize11pt.clo' used instead of
-(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 2027.
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 2033.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
-File: scrsize11pt.clo 2015/07/02 v3.18 KOMA-Script font size class option (11pt)
+File: scrsize11pt.clo 2015/10/03 v3.19a KOMA-Script font size class option (11pt)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
-Package: typearea 2015/07/02 v3.18 KOMA-Script package (type area)
+Package: typearea 2015/10/03 v3.19a KOMA-Script package (type area)
 
-Package typearea, 2015/07/02 v3.18 KOMA-Script package (type area)
+Package typearea, 2015/10/03 v3.19a KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -77,7 +77,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1506.
+(typearea)              on input line 1509.
 )
 \c@part=\count80
 \c@section=\count81
@@ -209,8 +209,8 @@ LaTeX Info: Redefining \_ on input line 43.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("D:\Hat\SkyDrive\Documents\Falmouth University\COMP130\Assignments\Game Platform Essay and Presentation\comp130-game-pl
-atform-history\comp130essay.aux")
+("D:\Harriet\SkyDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-ga
+me-platform-history\comp130essay.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
@@ -239,10 +239,10 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-("D:\Hat\SkyDrive\Documents\Falmouth University\COMP130\Assignments\Game Platform Essay and Presentation\comp130-game-pl
-atform-history\comp130essay.out")
-("D:\Hat\SkyDrive\Documents\Falmouth University\COMP130\Assignments\Game Platform Essay and Presentation\comp130-game-pl
-atform-history\comp130essay.out")
+("D:\Harriet\SkyDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-ga
+me-platform-history\comp130essay.out")
+("D:\Harriet\SkyDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-ga
+me-platform-history\comp130essay.out")
 \@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 20.
@@ -262,8 +262,8 @@ Overfull \hbox (7.79123pt too wide) in paragraph at lines 40--41
  []
 
 [2] [3] [4]
-("D:\Hat\SkyDrive\Documents\Falmouth University\COMP130\Assignments\Game Platform Essay and Presentation\comp130-game-pl
-atform-history\comp130essay.bbl" [5]
+("D:\Harriet\SkyDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-ga
+me-platform-history\comp130essay.bbl" [5]
 Overfull \hbox (5.02345pt too wide) in paragraph at lines 36--38
 []\OT1/cmr/m/n/10.95 J. Mac-callen, ``Madtronix.'' http://old.madtronix.com/html/vectrex.html,
  []
@@ -273,8 +273,8 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 
-("D:\Hat\SkyDrive\Documents\Falmouth University\COMP130\Assignments\Game Platform Essay and Presentation\comp130-game-pl
-atform-history\comp130essay.aux")
+("D:\Harriet\SkyDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-ga
+me-platform-history\comp130essay.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `comp130essay.out' has not changed.
@@ -286,17 +286,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
 ### semi simple group (level 1) entered at line 6 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5817 strings out of 493921
- 93949 string characters out of 3147288
- 230575 words of memory out of 3000000
- 9087 multiletter control sequences out of 15000+200000
+ 5826 strings out of 493921
+ 94209 string characters out of 3147277
+ 231052 words of memory out of 3000000
+ 9096 multiletter control sequences out of 15000+200000
  6680 words of font info for 24 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,6n,46p,1258b,908s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,46p,1258b,909s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on comp130essay.pdf (6 pages, 86139 bytes).
+Output written on comp130essay.pdf (6 pages, 86455 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
