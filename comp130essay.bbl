@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{wolf:pong}
 M.~J. Wolf, {\em The Video Game Explosion: a History from PONG to Playstation
@@ -11,6 +11,15 @@ M.~Ernkvist, ``Down many times, but still playing the game: Creative
   1970-1986,'' in {\em XIV International Economic History Congress, Helsinki
   2006, Session 45}, 2006.
 
+\bibitem{defanti:impact}
+T.~A. DeFanti, ``The mass impact of videogame technology,'' {\em Advances in
+  computers}, vol.~23, pp.~118,126, 1984.
+
+\bibitem{baer:supercade}
+R.~H. Baer and V.~Burnham, {\em Supercade: A visual history of the videogame
+  age, 1971-1984}.
+\newblock MIT Press, 2001.
+
 \bibitem{wolf:medium}
 M.~J. Wolf, {\em The medium of the video game}.
 \newblock University of Texas Press, 2001.
@@ -18,10 +27,6 @@ M.~J. Wolf, {\em The medium of the video game}.
 \bibitem{perron:theory}
 B.~Perron and M.~J. Wolf, {\em The Video Game Theory Reader 2}.
 \newblock Routledge, 2009.
-
-\bibitem{defanti:impact}
-T.~A. DeFanti, ``The mass impact of videogame technology,'' {\em Advances in
-  computers}, vol.~23, pp.~93--140, 1984.
 
 \bibitem{imagine:genius}
 {\em Classic Videogame Hardware Genius Guide}.
@@ -32,13 +37,19 @@ T.~A. DeFanti, ``The mass impact of videogame technology,'' {\em Advances in
   Arcade System}.
 \newblock 1982.
 
-\bibitem{madtronix}
-J.~Maccallen, ``Madtronix.'' http://old.madtronix.com/html/vectrex.html, 2006.
-\newblock Accessed 15/10/2015.
+\bibitem{montfort:random}
+N.~Montfort and I.~Bogost, ``Random and raster: Display technologies and the
+  development of videogames,'' {\em Annals of the History of Computing, IEEE},
+  vol.~31, pp.~34--43, July 2009.
 
 \bibitem{zachara:stereo}
 M.~Zachara and J.~P. Zagal, ``Challenges for success in stereo gaming: a
   virtual boy case study,'' in {\em Proceedings of the international conference
   on Advances in Computer Enterntainment Technology}, pp.~99--106, ACM, 2009.
+
+\bibitem{montfort:beam}
+N.~Montfort and I.~Bogost, {\em Racing the beam: The Atari video computer
+  system}.
+\newblock MIT Press, 2009.
 
 \end{thebibliography}
