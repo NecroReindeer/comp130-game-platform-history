@@ -1,6 +1,10 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: comp130essay.aux
-The style file: ieeetr.bst
+The style file: ieeetran.bst
 Database file #1: game-platform-history-references.bib
-Warning--empty author and editor in imagine:genius
-Warning--empty publisher in vectrex:manual
-(There were 2 warnings)
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--missing publisher in vectrex:manual
+
+Done.
+(There was 1 warning)

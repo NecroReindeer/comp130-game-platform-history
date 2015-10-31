@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.13)  23 OCT 2015 08:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.13)  31 OCT 2015 23:40
 entering extended mode
 **comp130essay.tex
 
@@ -250,71 +250,88 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 21.
 
-Overfull \hbox (2.68129pt too wide) in paragraph at lines 25--27
-\OT1/cmr/m/n/10.95 1980s whilst in-tro-duc-ing the Vec-trex and ex-plor-ing the in-no-va-tions and unique
+Overfull \hbox (5.14508pt too wide) in paragraph at lines 25--27
+[]\OT1/cmr/m/n/10.95 This short es-say ex-plores the cli-mate of the games in-dus-try in the early 1980s
+ []
+
+
+Overfull \hbox (20.36855pt too wide) in paragraph at lines 34--35
+\OT1/cmr/m/n/10.95 In 1982, Gen-eral Con-sumer Elec-tron-ics re-leased the Vec-trex, the first vector-based
  []
 
 [1
 
 
 {C:/Users/Hat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (10.8329pt too wide) in paragraph at lines 44--45
-\OT1/cmr/m/n/10.95 vec-tor graph-ics scanned the elec-tron beam be-tween points stored as co-or-di-nates,
- []
-
-
-Overfull \hbox (12.61734pt too wide) in paragraph at lines 44--45
-\OT1/cmr/m/n/10.95 cre-at-ing a se-ries of line seg-ments [[]]. Vec-tor graph-ics pro-vide higher resolution[[]]
+Overfull \hbox (6.36176pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/10.95 il-lu-sion of depth ef-fec-tively and per-form so-phis-ti-cated an-i-ma-tions ef-fi-ciently [[]].
  []
 
 [2]
-Overfull \hbox (1.16046pt too wide) in paragraph at lines 46--47
-\OT1/cmr/m/n/10.95 im-prac-ti-cal-i-ties, ac-cord-ing to Jay Smith, the Vec-trex's cre-ator, in an in-ter-view
+Overfull \hbox (7.42627pt too wide) in paragraph at lines 52--53
+[]\OT1/cmr/m/n/10.95 Furthermore, vec-tor graph-ics were lim-ited by the ca-pa-bil-i-ties of the hard-ware
  []
 
 
-Overfull \hbox (4.9929pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10.95 games had al-ready been re-leased on con-soles such as the Atari 2600, lim-i-ta-tions
+Overfull \hbox (7.4757pt too wide) in paragraph at lines 52--53
+\OT1/cmr/m/n/10.95 Atari 2600 and Cole-co-V-i-sion. A colour ver-sion of the Vec-trex was de-vel-oped [[]],
  []
 
 [3] [4]
 ("C:\Users\Hat\OneDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-
-game-platform-history\comp130essay.bbl" [5]
-Underfull \hbox (badness 1721) in paragraph at lines 41--44
+game-platform-history\comp130essay.bbl"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 30.
+
+Underfull \hbox (badness 5359) in paragraph at lines 29--32
+[]\OT1/cmr/m/n/10.95 Vectrex World, ``Vec-trex Graphic Com-puter Sys-tem,'' On-line.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+\OT1/cmr/m/n/10.95 Avail-able: []$http : / / www . vectrexworld . com / # ! vectrex-[]pg3 . jpg / zoom /
+ []
+
+[5]
+Underfull \hbox (badness 1721) in paragraph at lines 67--70
 \OT1/cmr/m/n/10.95 and the de-vel-op-ment of videogames,'' \OT1/cmr/m/it/10.95 An-nals of the His-tory of
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
 
 ("C:\Users\Hat\OneDrive\Documents\Falmouth University\COMP 130\Assignments\Game Platform Essay and Presentation\comp130-
 game-platform-history\comp130essay.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
 Package rerunfilecheck Info: File `comp130essay.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 6 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5821 strings out of 493921
- 94594 string characters out of 3144882
- 232655 words of memory out of 3000000
- 9089 multiletter control sequences out of 15000+200000
- 6680 words of font info for 24 fonts, out of 3000000 for 9000
+ 5847 strings out of 493921
+ 94946 string characters out of 3144882
+ 231691 words of memory out of 3000000
+ 9108 multiletter control sequences out of 15000+200000
+ 9119 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,6n,46p,1144b,910s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,46p,1187b,920s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx
 10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on comp130essay.pdf (6 pages, 87686 bytes).
+Output written on comp130essay.pdf (6 pages, 90200 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
