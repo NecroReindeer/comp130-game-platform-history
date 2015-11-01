@@ -22,18 +22,51 @@
 \BIBdecl
 
 \bibitem{vectrex:manual}
-{General Consumer Electronics, Inc.}, \emph{Service Manual HP-3000: Vectrex
-  Arcade System}, 1982.
+\emph{Service Manual HP-3000: Vectrex Arcade System}, {General Consumer
+  Electronics, Inc.}, Santa Monica, CA, 1982.
 
 \bibitem{vectrex:advert}
-{Vectrex World}, ``{Vectrex Graphic Computer System},'' Online. Available:
+{Vectrex World}, ``{Vectrex Images: Ads},'' [Online]. Available:
   \url{http://www.vectrexworld.com/#!vectrex-pg3.jpg/zoom/cady/image1epr},
-  [Accessed: 31-Oct-2015].
+  2014, [Accessed: 31-Oct-2015].
+
+\bibitem{wolf:medium}
+M.~J.~P. Wolf, \emph{The Medium of the Video Game}.\hskip 1em plus 0.5em minus
+  0.4em\relax Austin, TX: University of Texas Press, 2001.
+
+\bibitem{perron:theory}
+B.~Perron and M.~J.~P. Wolf, \emph{The Video Game Theory Reader 2}.\hskip 1em
+  plus 0.5em minus 0.4em\relax New York, NY: Routledge, 2009.
+
+\bibitem{defanti:impact}
+T.~A. DeFanti, ``The mass impact of videogame technology,'' \emph{Advances in
+  Computers}, vol.~23, pp. 93--140, 1984.
 
 \bibitem{wolf:pong}
-M.~J.~P. Wolf, \emph{The video game explosion: a history from Pong to
-  Playstation and beyond}.\hskip 1em plus 0.5em minus 0.4em\relax Greenwood
-  Press, 2008.
+M.~J.~P. Wolf, \emph{The Video Game Explosion: a History from Pong to
+  Playstation and Beyond}.\hskip 1em plus 0.5em minus 0.4em\relax Westport, CT:
+  Greenwood Press, 2008.
+
+\bibitem{montfort:random}
+N.~Montfort and I.~Bogost, ``Random and raster: Display technologies and the
+  development of videogames,'' \emph{Annals of the History of Computing, IEEE},
+  vol.~31, no.~3, pp. 34--43, 2009.
+
+\bibitem{baer:supercade}
+V.~Burnham, \emph{Supercade: A Visual History of the Videogame Age,
+  1971-1984}.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge, MA: MIT Press,
+  2001.
+
+\bibitem{zachara:stereo}
+M.~Zachara and J.~P. Zagal, ``Challenges for success in stereo gaming: a
+  virtual boy case study,'' in \emph{Proceedings of the international
+  conference on Advances in Computer Enterntainment Technology}, Athens,
+  Greece, 2009, pp. 99--106.
+
+\bibitem{montfort:beam}
+N.~Montfort and I.~Bogost, \emph{Racing the Beam: The Atari Video Computer
+  System}.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge, MA: MIT Press,
+  2009.
 
 \bibitem{ernkvist:crash}
 M.~Ernkvist, ``Down many times, but still playing the game: Creative
@@ -44,38 +77,7 @@ M.~Ernkvist, ``Down many times, but still playing the game: Creative
 \bibitem{kent:ultimate}
 S.~L. Kent, \emph{The Ultimate History of Video Games: From Pong to Pok{\'e}mon
   and Beyond : The Story Behind the Craze that Touched Our Lives and Changed
-  the World}.\hskip 1em plus 0.5em minus 0.4em\relax Three Rivers Press, 2001.
-
-\bibitem{baer:supercade}
-V.~Burnham, \emph{Supercade: A visual history of the videogame age,
-  1971-1984}.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge, MA: MIT Press,
-  2001.
-
-\bibitem{wolf:medium}
-M.~J.~P. Wolf, \emph{The medium of the video game}.\hskip 1em plus 0.5em minus
-  0.4em\relax University of Texas Press, 2001.
-
-\bibitem{perron:theory}
-B.~Perron and M.~J.~P. Wolf, \emph{The Video Game Theory Reader 2}.\hskip 1em
-  plus 0.5em minus 0.4em\relax Routledge, 2009.
-
-\bibitem{defanti:impact}
-T.~A. DeFanti, ``The mass impact of videogame technology,'' \emph{Advances in
-  computers}, vol.~23, pp. 93--140, 1984.
-
-\bibitem{montfort:random}
-N.~Montfort and I.~Bogost, ``Random and raster: Display technologies and the
-  development of videogames,'' \emph{Annals of the History of Computing, IEEE},
-  vol.~31, no.~3, pp. 34--43, 2009.
-
-\bibitem{zachara:stereo}
-M.~Zachara and J.~P. Zagal, ``Challenges for success in stereo gaming: a
-  virtual boy case study,'' in \emph{Proceedings of the international
-  conference on Advances in Computer Enterntainment Technology}.\hskip 1em plus
-  0.5em minus 0.4em\relax ACM, 2009, pp. 99--106.
-
-\bibitem{montfort:beam}
-N.~Montfort and I.~Bogost, \emph{Racing the beam: The Atari video computer
-  system}.\hskip 1em plus 0.5em minus 0.4em\relax MIT Press, 2009.
+  the World}.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY: Three Rivers
+  Press, 2001.
 
 \end{thebibliography}
